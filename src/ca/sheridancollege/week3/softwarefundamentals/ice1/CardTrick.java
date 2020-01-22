@@ -43,6 +43,7 @@ public class CardTrick {
         
        Scanner userInput = new Scanner(System.in);
         System.out.println("Enter any card"  + userInput);
+        System.out.println("");
         // and search magicHand here
         //Then report the result here
     }
